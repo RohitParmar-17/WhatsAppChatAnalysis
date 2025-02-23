@@ -851,6 +851,7 @@ theres
 there's
 thereupon
 these
+dihora
 they
 they'd
 they'll
@@ -968,6 +969,8 @@ wahin
 waisa
 waise
 waisi
+morvi
+ladki
 wala
 wale
 wali
@@ -1053,3 +1056,8 @@ yourself
 yourselves
 you've
 yup
+image
+omitted
+document
+deleted
+message
