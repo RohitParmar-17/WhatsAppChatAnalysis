@@ -6,11 +6,11 @@ The WhatsApp Chat Analyzer is a tool that allows users to analyze chat data expo
 ## Screenshots
 Here are some screenshots of the WhatsApp Chat Analyzer in action:
 
-<img src="https://github.com/RohitParmar-17/WhatsAppChatAnalysis/blob/main/wp1.png" alt="Chat Statistics" width="100%">
+<img src="https://github.com/RohitParmar-17/WhatsAppChatAnalysis/blob/main/screenshots/wp1.png" alt="Chat Statistics" width="100%">
 
-<img src="https://github.com/RohitParmar-17/WhatsAppChatAnalysis/blob/main/wp2.png" alt="Chat Statistics" width="100%">
+<img src="https://github.com/RohitParmar-17/WhatsAppChatAnalysis/blob/main/screenshots/wp2.png" alt="Chat Statistics" width="100%">
 
-<img src="https://github.com/RohitParmar-17/WhatsAppChatAnalysis/blob/main/wp3.png" alt="Chat Statistics" width="100%">
+<img src="https://github.com/RohitParmar-17/WhatsAppChatAnalysis/blob/main/screenshots/wp3.png" alt="Chat Statistics" width="100%">
 
 ## Features
 - **Message Statistics**: Get an overview of total messages, word count, and media files.
